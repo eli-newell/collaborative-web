@@ -11,7 +11,14 @@ knitr::opts_chunk$set(echo = TRUE)
 
 ![](https://www.cornell.edu/about/img/main-Tower1.Still001-720x.jpg)
 
+
+## Adding some test text
+
+This is our website 
+
 ## R Markdown
+
+
 
 This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see <http://rmarkdown.rstudio.com>.
 
