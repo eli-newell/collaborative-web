@@ -1,0 +1,12 @@
+---
+title: "About"
+author: "kalem hanlon"
+date: "2024-09-10"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## This is about us!
